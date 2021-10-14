@@ -14,8 +14,8 @@ Feature: logging different users
 	Then he must see a welcome message
 	Examples:
 	  | username | pwd |
-	  | riadh    | pwd |
-	  | amine    | pwd |
-	  | ayoub    | pw  |
+	  | skan    | pwd |
+	  |      |  |
+	  | 77888    | pw  |
 
 	  
